@@ -1,0 +1,32 @@
+.nav-height{
+    height: 60px;
+}
+.navbar-nav{
+    z-index: 2;
+}
+.navbar-nav .nav-link:hover{
+    display: block;
+    color: #ddd;
+}
+.carousel{
+    z-index: -2;
+}
+
+.Biswajit a:hover{
+    background-color: red;
+    color:#ddd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
